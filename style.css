@@ -8,6 +8,9 @@ body {
   background-color: greenyellow;
 }
 
-h1 {
-  color: red;
+h1,
+h2 {
+  text-align: center;
+  color: black;
+  margin-top: 50px;
 }
